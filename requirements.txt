@@ -1,0 +1,13 @@
+numpy
+opencv-python
+torch
+matplotlib
+airsim
+scipy
+pillow
+onnxruntime
+scikit-learn
+pandas
+pyyaml
+tqdm
+tensorboard
